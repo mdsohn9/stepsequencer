@@ -1,4 +1,4 @@
-int buttonPin[6] = {7, 8, 9, 10, 33, 34};
+int buttonPin[5] = {8, 9, 10, 33, 34};
 int ledPins[4] = {2, 3, 4, 5};
 boolean lastButtonState[6] = {LOW, LOW, LOW, LOW, LOW, LOW};
 boolean buttonState[6] = {LOW, LOW, LOW, LOW, LOW, LOW};
